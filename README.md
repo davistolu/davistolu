@@ -47,7 +47,7 @@ console.log(tolu.vibe); // "fun crazy chill guy 😎"
 ## 🛠️ My Stack (a.k.a. My Weapons of Choice)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,postgres,solidity,git,figma,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,python,postgres,solidity,git,figma,tailwind,vscode" />
 </p>
 
 <p align="center">
@@ -56,7 +56,8 @@ console.log(tolu.vibe); // "fun crazy chill guy 😎"
 
 ---
 
-## 😂 Developer Life, As Told By Memes
+## 😂 My Life 🫩 <img width="330" height="336" alt="BruhGIF" src="https://github.com/user-attachments/assets/b62d08cb-7583-476e-9358-3840d7a2f602" />
+
 
 <table align="center">
 <tr>
