@@ -91,8 +91,7 @@ console.log(tolu.askMeAbout()); // proceed with caution
 </td>
 <td align="center" width="50%">
 <b>Me reviewing my own code a week later</b><br>
-<img src="https://media.giphy.com/media/13V60VgE1SNbKw/giphy.gif" width="280">
-</td>
+<img width="330" height="336" alt="BruhGIF" src="https://github.com/user-attachments/assets/d1c45f42-654d-47fe-8114-c4174a788069" /></td>
 </tr>
 <tr>
 <td align="center" width="50%">
