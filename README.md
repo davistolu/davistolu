@@ -99,8 +99,7 @@ console.log(tolu.askMeAbout()); // proceed with caution
 <img width="395" height="498" alt="JengaEpicMoveGIF" src="https://github.com/user-attachments/assets/8526f2a2-23fc-4f51-bcba-32e85a6e8205" /></td>
 <td align="center" width="50%">
 <b>Deploying on a Friday anyway</b><br>
-<img width="112" height="112" alt="PepeLaughHeDoesntKnowGIF" src="https://github.com/user-attachments/assets/44c06b3a-a18c-4fc5-bf63-33272ad38ee2" /></td>
-</tr>
+<img width="498" height="373" alt="SimpsonsVibeGIF" src="https://github.com/user-attachments/assets/6c861f20-9e8b-41da-abe0-524b44c8d529" /></tr>
 </table>
 
 ```bash
