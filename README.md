@@ -86,7 +86,7 @@ console.log(tolu.askMeAbout()); // proceed with caution
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<b>When the code works but I don't know why</b><br>
+<b>Client: "small change" 🙃</b><br>
 <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="280">
 </td>
 <td align="center" width="50%">
@@ -95,7 +95,7 @@ console.log(tolu.askMeAbout()); // proceed with caution
 </tr>
 <tr>
 <td align="center" width="50%">
-<b>Client: "small change" 🙃</b><br>
+<b>When the code works but I don't know why</b><br>
 <img width="395" height="498" alt="JengaEpicMoveGIF" src="https://github.com/user-attachments/assets/8526f2a2-23fc-4f51-bcba-32e85a6e8205" /></td>
 <td align="center" width="50%">
 <b>Deploying on a Friday anyway</b><br>
