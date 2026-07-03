@@ -187,8 +187,7 @@ $ git commit -m "fixed the bug (for real this time)"
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="350" alt="thanks for stopping by">
-</p>
+<img width="498" height="369" alt="BatmanCapeGIF" src="https://github.com/user-attachments/assets/1dee0415-c454-4089-9eb4-e0e28d5a8aba" /></p>
 
 <h3 align="center">Thanks for scrolling this far 🎉 Now go star one of my repos, my ego needs it 👀</h3>
 
