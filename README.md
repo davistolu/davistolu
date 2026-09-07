@@ -3,73 +3,123 @@
 </h1>
 
 <p align="center">
-  <strong>Fullstack Developer · TypeScript · React · Node.js · AI</strong>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Developer;Professional+Bug+Creator+%26+Bug+Slayer;TypeScript+Enjoyer;Turning+Coffee+Into+Production+Code;console.log('why')+%3D%3D+my+debugging+strategy;Ships+it.+Fixes+it.+Probably.;Chill+Guy+%2F%2F+Chaotic+Coder&font=Fira+Code&center=true&width=650&height=50&color=00FF9C&vCenter=true&size=24&pause=900" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+things+that+shouldn't+exist;Turning+ideas+into+software;Fullstack+%7C+AI+%7C+Web3;Probably+debugging+something+right+now&font=Fira+Code&center=true&width=600&height=40&color=00FF9C&vCenter=true&size=20&pause=1200" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="350" alt="coding gif">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-shipping%20stuff-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/mood-chaotic%20chill-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/uptime-questionable-red?style=for-the-badge">
 </p>
 
 ---
 
-## About Me
-
-I'm a fullstack developer who enjoys turning questionable ideas into functioning software.
-
-I mostly work with **TypeScript, React, Node.js, Python, and modern web technologies**, with a growing obsession for AI-powered products and systems architecture.
+## 🧃 About Me
 
 ```ts
 const tolu = {
+  name: "Tolu",
+  location: "Lagos, Nigeria 🇳🇬",
   role: "Fullstack Developer",
-  stack: ["TypeScript", "React", "Node.js", "Python"],
-  interests: ["AI", "Web3", "Product Engineering"],
-  currentlyBuilding: "A lot of things",
-  debuggingStrategy: "console.log()",
-  sleepSchedule: "undefined",
+  stack: ["TypeScript", "React", "Node.js", "Next.js", "Python"],
+  currentlyBuilding: "things that probably didn't need to be this complicated",
+  favoriteCommand: "git push",
+  leastFavoriteCommand: "git push",
+  debuggingStrategy: "console.log() + prayer",
+  sleepSchedule: "404",
+  status: "probably coding"
 };
 ```
 
-## Tech Stack
+I build web applications, backend systems, APIs, and occasionally things that make me question why I became a developer in the first place.
+
+I like **TypeScript, React, Node.js, system architecture, AI integrations, and building products from scratch.**
+
+Basically: give me a problem, a keyboard, and an unreasonable amount of caffeine.
+
+---
+
+## 🛠️ The Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,php,postgres,mongodb,redis,tailwind,solidity,git,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,php,postgres,mongodb,redis,tailwind,git,figma,vscode" />
 </p>
 
-## What I'm Building
+**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind
 
-Currently working on products across:
+**Backend:** Node.js · Express · Python · Django · FastAPI · Laravel
 
-* AI-powered applications
+**Data:** PostgreSQL · MongoDB · Redis · MySQL
+
+**Other:** REST APIs · AI integrations · Git · Figma · Cloud · System Architecture
+
+---
+
+## 🚧 What I'm Building
+
+Currently working on products, experiments, and questionable ideas involving:
+
+* AI & intelligent applications
 * Fullstack web platforms
-* Developer infrastructure
-* Blockchain/Web3 systems
-* Automation and internal tools
+* Developer tools
+* Automation
+* Blockchain
+* Systems that definitely started as "just a quick idea"
 
-I like working across the entire stack — from **UI architecture to APIs, databases, deployment, and everything in between.**
+I enjoy taking something from **"this would be cool" → "holy shit, it's actually working."**
 
-## GitHub Stats
+---
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=davistolu&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davistolu&layout=compact&theme=radical&hide_border=true" />
-</p>
+## 🧠 Developer Philosophy
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davistolu&theme=radical&hide_border=true" />
-</p>
+```bash
+$ git status
 
-## A Few Facts
+On branch main
 
-```text
-→ TypeScript is my comfort zone
-→ React is where I live
-→ Node.js is usually involved somewhere
-→ "I'll refactor it later" is dangerous vocabulary
-→ If it works, don't touch it
-→ If it doesn't work, blame the cache
+Changes not staged for commit:
+  modified:   sleep.schedule
+  modified:   sanity
+  modified:   project.scope
+
+Untracked files:
+  chaos/
+
+nothing to commit, working tree emotionally unstable.
 ```
 
-## Let's Connect
+> "It works on my machine."
+
+Unfortunately, my machine is also where most of the problems begin.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=davistolu&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davistolu&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davistolu&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 🐍 Apparently I Feed This Thing
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+</p>
+
+---
+
+## 📫 Find Me
 
 <p align="center">
   <a href="https://github.com/davistolu">
@@ -81,5 +131,9 @@ I like working across the entire stack — from **UI architecture to APIs, datab
 </p>
 
 <p align="center">
-  <i>Building. Breaking. Fixing. Shipping.</i>
+  <i>Building things. Breaking things. Fixing things. Repeat.</i>
 </p>
+
+<h3 align="center">
+  If something here looks interesting, check out the repos.
+</h3>
