@@ -46,12 +46,12 @@ Basically: give me a problem, a keyboard, and an unreasonable amount of caffeine
 ## 🛠️ The Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,php,postgres,mongodb,redis,tailwind,git,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,ruby,php,postgres,mongodb,redis,tailwind,git,figma,vscode" />
 </p>
 
 **Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind
 
-**Backend:** Node.js · Express · Python · Django · FastAPI · Laravel
+**Backend:** Node.js · Express · Python · Django · FastAPI · Laravel · Ruby · Flask
 
 **Data:** PostgreSQL · MongoDB · Redis · MySQL
 
