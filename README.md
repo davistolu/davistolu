@@ -46,7 +46,7 @@ Basically: give me a problem, a keyboard, and an unreasonable amount of caffeine
 ## 🛠️ The Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,ruby,php,postgres,mongodb,redis,tailwind,git,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,ruby,php,postgres,mongodb,flask,redis,tailwind,git" />
 </p>
 
 **Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind
