@@ -24,7 +24,7 @@
 const tolu = {
   name: "Tolu",
   location: "Lagos, Nigeria 🇳🇬",
-  role: "Fullstack Developer",
+  role: "Software Engineer",
   stack: ["TypeScript", "React", "Node.js", "Next.js", "Python"],
   currentlyBuilding: "things that probably didn't need to be this complicated",
   favoriteCommand: "git push",
@@ -35,7 +35,7 @@ const tolu = {
 };
 ```
 
-I build web applications, backend systems, APIs, and occasionally things that make me question why I became a developer in the first place.
+I build web applications, backend systems, unconventional applications (to make my life easy and apps you don’t see too often), APIs, and occasionally things that make me question why I became a developer in the first place.
 
 I like **TypeScript, React, Node.js, system architecture, AI integrations, and building products from scratch.**
 
