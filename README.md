@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Developer;Professional+Bug+Creator+%26+Bug+Slayer;TypeScript+Enjoyer;Turning+Coffee+Into+Production+Code;console.log('why')+%3D%3D+my+debugging+strategy;Ships+it.+Fixes+it.+Probably.;Chill+Guy+%2F%2F+Chaotic+Coder&font=Fira+Code&center=true&width=650&height=50&color=00FF9C&vCenter=true&size=24&pause=900" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Professional+Bug+Creator+%26+Bug+Slayer;TypeScript+Enjoyer;Turning+Coffee+Into+Production+Code;console.log('why')+%3D%3D+my+debugging+strategy;Ships+it.+Fixes+it.+Probably.;Chill+Guy+%2F%2F+Chaotic+Coder&font=Fira+Code&center=true&width=650&height=50&color=00FF9C&vCenter=true&size=24&pause=900" alt="Typing SVG" />
 </p>
 
 <p align="center">
